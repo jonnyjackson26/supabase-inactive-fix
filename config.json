@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Contacts in Common",
+    "supabase_url": "https://bivndjubhaztrrduedmb.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "supabase-keep-alive"
+  }
+]
